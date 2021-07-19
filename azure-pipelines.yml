@@ -7,7 +7,7 @@ trigger:
 - rhel
 
 pool:
-  vmImage: ubuntu-latest
+  vmImage: cent-os
 
 steps:
 - script: echo Hello, world!
